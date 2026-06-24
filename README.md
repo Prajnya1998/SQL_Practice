@@ -67,6 +67,39 @@ Learned how to combine data from multiple tables using JOINs and understand rela
 * joins_practice.sql
 
 
-### Author
+## Project 3: Aggregate Functions Practice
 
+### Project Overview
+
+This project focuses on SQL Aggregate Functions using the Global Superstore dataset. Aggregate functions are used to summarize and analyze large volumes of data for business reporting and decision-making.
+
+### Skills Practiced
+
+* SUM()
+* AVG()
+* MIN()
+* MAX()
+* COUNT()
+* GROUP BY
+* HAVING
+
+### Sample Analysis Performed
+
+* Total Sales Calculation
+* Average Sales Analysis
+* Minimum and Maximum Sales Identification
+* Record Counting
+* Sales Aggregation by Category
+* Category-wise Sales Filtering using HAVING
+
+### Learning Outcome
+
+Learned how to summarize data, generate business insights, perform category-level analysis, and filter aggregated results using SQL Aggregate Functions.
+
+### File
+
+* aggregate_functions_practice.sql
+
+
+### Author
 Prajnya Bhol
