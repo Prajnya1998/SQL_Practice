@@ -36,6 +36,37 @@ Global Superstore Sales Dataset
 - VS Code
 - GitHub
 
+
+## Project 2: SQL JOINs Practice
+
+### Concepts Covered
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN
+* Primary Key
+* Foreign Key
+
+### Tables Used
+
+#### Employees
+
+Stores employee information including department assignment.
+
+#### Departments
+
+Stores department details and department heads.
+
+### Learning Outcome
+
+Learned how to combine data from multiple tables using JOINs and understand relationships using Primary Keys and Foreign Keys.
+
+### File
+
+* joins_practice.sql
+
+
 ### Author
 
 Prajnya Bhol
