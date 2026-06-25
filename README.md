@@ -140,5 +140,44 @@ Learned how to efficiently filter, search, and sort data using SQL to answer com
 - filtering_sorting_practice.sql
 
 
+## Project 5: String Functions Practice
+
+### Project Overview
+
+This project demonstrates commonly used SQL string functions for cleaning, formatting, and transforming text data using the Global Superstore dataset.
+
+### Skills Practiced
+
+* UPPER()
+* LOWER()
+* LEN()
+* LEFT()
+* RIGHT()
+* SUBSTRING()
+* CONCAT()
+* TRIM()
+* REPLACE()
+* CHARINDEX()
+
+### Sample Analysis Performed
+
+* Converted customer names to uppercase and lowercase
+* Counted the length of customer names
+* Extracted characters from the left and right
+* Retrieved portions of text using SUBSTRING
+* Combined text values using CONCAT
+* Removed unwanted spaces using TRIM
+* Replaced characters using REPLACE
+* Located characters using CHARINDEX
+
+### Learning Outcome
+
+Learned how to clean, standardize, and manipulate text data using SQL string functions, which are widely used in reporting, ETL processes, and data preparation.
+
+### File
+
+* string_functions_practice.sql
+
+
 ### Author
 Prajnya Bhol
