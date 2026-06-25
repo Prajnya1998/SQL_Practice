@@ -179,5 +179,44 @@ Learned how to clean, standardize, and manipulate text data using SQL string fun
 * string_functions_practice.sql
 
 
+## Project 6: Date Functions Practice
+
+### Project Overview
+
+This project demonstrates SQL date and time functions using the Global Superstore dataset. These functions are widely used in reporting, business intelligence, financial analysis, and ETL processes.
+
+### Skills Practiced
+
+- GETDATE()
+- YEAR()
+- MONTH()
+- DAY()
+- DATEADD()
+- DATEDIFF()
+- EOMONTH()
+- CAST()
+- CONVERT()
+- FORMAT()
+
+### Sample Analysis Performed
+
+- Retrieved the current system date and time
+- Extracted year, month, and day from order dates
+- Added and subtracted days, months, and years
+- Calculated the difference between order and ship dates
+- Retrieved the last day of the month
+- Converted date data types
+- Formatted dates for reporting
+
+### Learning Outcome
+
+Learned how to manipulate, calculate, and format dates using SQL Server date functions for reporting, analytics, and business applications.
+
+### File
+
+- date_functions_practice.sql
+
+
+
 ### Author
 Prajnya Bhol
