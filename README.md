@@ -102,15 +102,15 @@ Learned how to summarize data, generate business insights, perform category-leve
 
 
 
-  ## Project 4: Filtering and Sorting Practice
+## Project 4: Filtering and Sorting Practice
 
-  ### Project Overview
+### Project Overview
 
-  This project demonstrates SQL techniques for filtering, searching, and sorting data using the Global Superstore dataset. These operations are commonly used in reporting, dashboards, and business analysis.
+This project demonstrates SQL techniques for filtering, searching, and sorting data using the Global Superstore dataset. These operations are commonly used in reporting, dashboards, and business analysis.
 
-  ### Skills Practice
+### Skills Practice
 
-  - WHERE
+- WHERE
 - AND
 - OR
 - BETWEEN
