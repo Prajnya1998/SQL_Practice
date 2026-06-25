@@ -101,5 +101,44 @@ Learned how to summarize data, generate business insights, perform category-leve
 * aggregate_functions_practice.sql
 
 
+
+  ## Project 4: Filtering and Sorting Practice
+
+  ### Project Overview
+
+  This project demonstrates SQL techniques for filtering, searching, and sorting data using the Global Superstore dataset. These operations are commonly used in reporting, dashboards, and business analysis.
+
+  ### Skills Practice
+
+  - WHERE
+- AND
+- OR
+- BETWEEN
+- IN
+- LIKE
+- DISTINCT
+- TOP
+- ORDER BY (ASC & DESC)
+
+### Sample Analysis Performed
+
+- Filtered orders based on sales values
+- Filtered records using multiple conditions
+- Retrieved records within a specified range
+- Selected records from multiple categories
+- Searched customer names using pattern matching
+- Retrieved unique values using DISTINCT
+- Displayed top records using TOP
+- Sorted sales in ascending and descending order
+
+### Learning Outcome
+
+Learned how to efficiently filter, search, and sort data using SQL to answer common business questions and prepare data for reporting.
+
+### File
+
+- filtering_sorting_practice.sql
+
+
 ### Author
 Prajnya Bhol
