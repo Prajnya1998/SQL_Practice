@@ -249,5 +249,40 @@ Learned how to use SQL Window Functions for ranking, segmentation, trend analysi
 
 - window_functions_practice.sql
 
+
+## Project 8: Subqueries Practice
+
+### Project Overview
+
+This project demonstrates SQL Subqueries using the Global Superstore dataset. It covers single-row and multi-row subqueries, filtering techniques, and correlated subqueries used in real-world business scenarios.
+
+### Skills Practiced
+
+- Single Row Subquery
+- AVG()
+- MAX()
+- IN
+- EXISTS
+- ANY
+- ALL
+- Correlated Subquery
+
+### Sample Analysis Performed
+
+- Retrieved products with sales above the average
+- Found products with the highest sales
+- Used IN to filter records returned by another query
+- Used EXISTS to check matching records
+- Compared values using ANY and ALL
+- Compared product sales with their category average using a correlated subquery
+
+### Learning Outcome
+
+Learned how to write and use SQL subqueries for filtering, comparison, and advanced business analysis using both independent and correlated queries.
+
+### File
+
+- subqueries_practice.sql
+
 ### Author
 Prajnya Bhol
