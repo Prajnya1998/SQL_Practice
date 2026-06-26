@@ -217,6 +217,37 @@ Learned how to manipulate, calculate, and format dates using SQL Server date fun
 - date_functions_practice.sql
 
 
+## Project 7: Window Functions Practice
+
+### Project Overview
+
+This project demonstrates SQL Window Functions using the Global Superstore dataset. Window functions are used to perform calculations across rows without grouping the data, making them essential for ranking, comparisons, trend analysis, and reporting.
+
+### Skills Practiced
+
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- NTILE()
+- LAG()
+- LEAD()
+
+### Sample Analysis Performed
+
+- Assigned unique row numbers to customers based on sales
+- Ranked customers by sales
+- Compared RANK() and DENSE_RANK()
+- Divided customers into sales quartiles using NTILE()
+- Compared current sales with previous sales using LAG()
+- Compared current sales with next sales using LEAD()
+
+### Learning Outcome
+
+Learned how to use SQL Window Functions for ranking, segmentation, trend analysis, and comparing values across rows without using self-joins.
+
+### File
+
+- window_functions_practice.sql
 
 ### Author
 Prajnya Bhol
