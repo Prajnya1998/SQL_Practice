@@ -316,6 +316,38 @@ Learned how to simplify complex SQL queries using CTEs, improve query readabilit
 - cte_practice.sql
 
 
+## Project 10: SQL Views Practice
+
+### Project Overview
+
+This project demonstrates SQL Views using the Global Superstore dataset. Views simplify complex queries, improve security, and provide reusable virtual tables for reporting and business intelligence.
+
+### Skills Practiced
+
+- CREATE VIEW
+- SELECT FROM VIEW
+- ALTER VIEW
+- DROP VIEW
+- CREATE OR ALTER VIEW
+
+### Sample Analysis Performed
+
+- Created a reusable sales summary view
+- Retrieved data using the view
+- Modified the view to include additional columns
+- Deleted an existing view
+- Used CREATE OR ALTER VIEW for efficient view management
+
+### Learning Outcome
+
+Learned how SQL Views simplify reporting, improve code reusability, enhance security, and make enterprise SQL development more maintainable.
+
+### File
+
+- views_practice.sql
+
+
+
 
 ### Author
 Prajnya Bhol
