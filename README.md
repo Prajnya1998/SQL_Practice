@@ -284,5 +284,38 @@ Learned how to write and use SQL subqueries for filtering, comparison, and advan
 
 - subqueries_practice.sql
 
+
+## Project 9: Common Table Expressions (CTEs)
+
+### Project Overview
+
+This project demonstrates SQL Common Table Expressions (CTEs) using the Global Superstore dataset. CTEs improve query readability, simplify complex logic, and are widely used in enterprise reporting and analytics.
+
+### Skills Practiced
+
+- Basic CTE
+- Multiple CTEs
+- CTE with JOIN
+- CTE with Window Functions
+- Recursive CTE
+
+### Sample Analysis Performed
+
+- Calculated average sales using a CTE
+- Used multiple CTEs in a single query
+- Joined CTE results with the original table
+- Combined CTEs with ROW_NUMBER()
+- Generated recursive results using a Recursive CTE
+
+### Learning Outcome
+
+Learned how to simplify complex SQL queries using CTEs, improve query readability, and solve hierarchical data problems with Recursive CTEs.
+
+### File
+
+- cte_practice.sql
+
+
+
 ### Author
 Prajnya Bhol
