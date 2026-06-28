@@ -347,6 +347,40 @@ Learned how SQL Views simplify reporting, improve code reusability, enhance secu
 - views_practice.sql
 
 
+## Project 11: SQL Stored Procedures Practice
+
+### Project Overview
+
+This project demonstrates SQL Stored Procedures using the Global Superstore dataset. It covers creating, executing, modifying, and managing stored procedures with parameters and error handling, following real-world business scenarios.
+
+### Skills Practiced
+
+- CREATE PROCEDURE
+- EXECUTE PROCEDURE
+- ALTER PROCEDURE
+- Stored Procedure with One Parameter
+- Stored Procedure with Multiple Parameters
+- DROP PROCEDURE
+- CREATE OR ALTER PROCEDURE
+- TRY...CATCH Error Handling
+
+### Sample Analysis Performed
+
+- Created reusable stored procedures
+- Executed stored procedures for reporting
+- Modified stored procedures using ALTER PROCEDURE
+- Filtered results using input parameters
+- Applied multiple parameters for dynamic reporting
+- Implemented error handling using TRY...CATCH
+
+### Learning Outcome
+
+Learned how Stored Procedures improve code reusability, performance, security, and maintainability while supporting dynamic reporting and enterprise-level SQL development.
+
+### File
+
+- stored_procedures_practice.sql
+
 
 
 ### Author
