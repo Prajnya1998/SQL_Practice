@@ -449,5 +449,39 @@ Learned how SQL Triggers automatically execute on database events, enforce busin
 - triggers_practice.sql
 
 
+## Project 14: SQL Transactions Practice
+
+### Project Overview
+
+This project demonstrates SQL Transactions using a real-world banking money transfer scenario. It explains how SQL Server maintains data consistency using transactions and proper error handling.
+
+### Skills Practiced
+
+- BEGIN TRANSACTION
+- COMMIT TRANSACTION
+- ROLLBACK TRANSACTION
+- TRY...CATCH
+- SAVE TRANSACTION (Savepoint)
+- Banking Transaction Simulation
+- Error Handling
+
+### Sample Business Scenario
+
+- Transfer money between bank accounts.
+- Commit successful transactions.
+- Roll back failed transactions.
+- Handle errors using TRY...CATCH.
+- Use Savepoints for partial rollback.
+
+### Learning Outcome
+
+Learned how SQL Transactions ensure data consistency, prevent partial updates, and safely handle errors in enterprise applications such as banking, finance, and e-commerce.
+
+### File
+
+- transactions_practice.sql
+
+
+
 ### Author
 Prajnya Bhol
