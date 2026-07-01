@@ -382,6 +382,39 @@ Learned how Stored Procedures improve code reusability, performance, security, a
 - stored_procedures_practice.sql
 
 
+## Project 12: SQL User Defined Functions (UDFs)
+
+### Project Overview
+
+This project demonstrates SQL User Defined Functions (UDFs) using the Global Superstore dataset. It includes Scalar Functions and Table-Valued Functions with real-world business scenarios to show how reusable logic simplifies SQL development.
+
+### Skills Practiced
+
+- Scalar Functions
+- Table-Valued Functions (TVF)
+- Execute Functions
+- ALTER FUNCTION
+- DROP FUNCTION
+- Function Reusability
+- Business Logic Implementation
+
+### Sample Analysis Performed
+
+- Calculated product discounts using a Scalar Function
+- Returned Technology products using a Table-Valued Function
+- Modified business logic using ALTER FUNCTION
+- Removed functions using DROP FUNCTION
+- Used functions inside SELECT statements
+
+### Learning Outcome
+
+Learned how SQL User Defined Functions improve code reusability, maintainability, and consistency by centralizing business logic and calculations.
+
+### File
+
+- user_defined_functions_practice.sql
+
+
 
 ### Author
 Prajnya Bhol
