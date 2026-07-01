@@ -415,6 +415,39 @@ Learned how SQL User Defined Functions improve code reusability, maintainability
 - user_defined_functions_practice.sql
 
 
+## Project 13: SQL Triggers Practice
+
+### Project Overview
+
+This project demonstrates SQL Triggers in SQL Server using a real-world employee audit scenario. It covers automatic auditing, preventing unauthorized deletions, trigger modification, and trigger removal.
+
+### Skills Practiced
+
+- AFTER INSERT Trigger
+- INSTEAD OF DELETE Trigger
+- ALTER TRIGGER
+- DROP TRIGGER
+- inserted Logical Table
+- deleted Logical Table
+- Audit Logging
+- Business Rule Enforcement
+
+### Sample Business Scenario
+
+- Automatically record newly inserted employees into an audit table.
+- Prevent employee records from being deleted.
+- Log delete attempts into an audit table.
+- Modify trigger behavior using ALTER TRIGGER.
+- Remove triggers safely using DROP TRIGGER.
+
+### Learning Outcome
+
+Learned how SQL Triggers automatically execute on database events, enforce business rules, maintain audit logs, and improve data integrity in enterprise applications.
+
+### File
+
+- triggers_practice.sql
+
 
 ### Author
 Prajnya Bhol
