@@ -482,6 +482,41 @@ Learned how SQL Transactions ensure data consistency, prevent partial updates, a
 - transactions_practice.sql
 
 
+## Project 15: SQL Indexes Practice
+
+### Project Overview
+
+This project demonstrates SQL Server Indexes using the Global Superstore dataset. It covers Clustered and Non-Clustered Indexes, query optimization, execution plans, and index maintenance.
+
+### Skills Practiced
+
+- Clustered Index
+- Non-Clustered Index
+- Execution Plan Analysis
+- SET STATISTICS IO
+- SET STATISTICS TIME
+- ALTER INDEX
+- REBUILD
+- REORGANIZE
+- DROP INDEX
+
+### Sample Business Scenario
+
+- Analyze slow customer search queries.
+- Create a Non-Clustered Index on Customer_Name.
+- Compare execution plans before and after indexing.
+- Maintain indexes using REBUILD and REORGANIZE.
+- Remove unused indexes safely.
+
+### Learning Outcome
+
+Learned how SQL Server indexes improve query performance, how to analyze execution plans, and how to maintain indexes for enterprise-scale databases.
+
+### File
+
+- indexes_practice.sql
+
+
 
 ### Author
 Prajnya Bhol
