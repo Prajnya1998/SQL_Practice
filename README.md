@@ -1,4 +1,50 @@
-# SQL Practice
+# SQL Server Practice Projects
+
+## About
+
+This repository contains hands-on SQL Server projects completed as part of my Data Analyst and SQL Developer learning journey.
+
+The projects cover SQL fundamentals, intermediate concepts, advanced SQL Server development, query optimization, transactions, dynamic SQL, error handling, and business reporting using the Global Superstore dataset.
+
+The goal of this repository is to demonstrate practical SQL skills through real-world business scenarios.
+
+---
+
+## Technologies Used
+
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
+- Visual Studio Code (VS Code)
+- GitHub
+- Global Superstore Dataset
+
+---
+
+## Project Roadmap
+
+| Project | Topic |
+|---------|-------------------------------|
+| Project 1 | Global Superstore Analysis |
+| Project 2 | SQL JOINs |
+| Project 3 | Aggregate Functions |
+| Project 4 | Filtering & Sorting |
+| Project 5 | String Functions |
+| Project 6 | Date Functions |
+| Project 7 | Window Functions |
+| Project 8 | Subqueries |
+| Project 9 | Common Table Expressions (CTEs) |
+| Project 10 | SQL Views |
+| Project 11 | Stored Procedures |
+| Project 12 | User Defined Functions |
+| Project 13 | Triggers |
+| Project 14 | Transactions |
+| Project 15 | Indexes |
+| Project 16 | Performance Tuning |
+| Project 17 | Dynamic SQL |
+| Project 18 | Error Handling & Logging |
+| Project 19 | SQL Interview Project |
+
+---
 
 ## Project 1: Global Superstore Analysis
 
@@ -516,6 +562,31 @@ Learned how SQL Server indexes improve query performance, how to analyze executi
 
 - indexes_practice.sql
 
+
+## SQL Skills Covered
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- JOINs
+- Aggregate Functions
+- String Functions
+- Date Functions
+- Window Functions
+- Subqueries
+- Common Table Expressions (CTEs)
+- Views
+- Stored Procedures
+- User Defined Functions (UDFs)
+- Triggers
+- Transactions
+- Indexing
+- Performance Tuning
+- Dynamic SQL
+- TRY...CATCH Error Handling
+- Query Optimization
 
 
 ### Author
